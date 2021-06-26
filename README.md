@@ -10,3 +10,7 @@
 * [#8](exericses/8)
 * [#9](exericses/9)
 * [#10](exericses/10)
+* [#11](exericses/11)
+* [#12](exericses/12)
+* [#13](exericses/13)
+* [#14](exericses/14)
