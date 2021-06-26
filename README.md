@@ -1,4 +1,4 @@
-# DOM Manipulation Exercises
+# Corgi DOM Manipulation Exercises
 
 * [#1](exericses/1)
 * [#2](exericses/2)
