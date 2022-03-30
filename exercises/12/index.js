@@ -5,3 +5,5 @@ ul.append(li)
 const queens = document.querySelector(".queens")
 queens.append(ul)
 
+
+
