@@ -1,1 +1,2 @@
-console.log(img)
+const images = document.querySelectorAll('img')
+console.dir(img)
